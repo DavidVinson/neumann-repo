@@ -1,5 +1,7 @@
 Hey Papa. General comments about the project. (1)
 
+- rework complete
+
 ---
 
 | Part 3 - Cart System                                                                   | Complete? |

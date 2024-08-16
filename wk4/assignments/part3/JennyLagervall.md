@@ -1,5 +1,7 @@
 Hey Jenny. General comments about the project. (1)
 
+- rework compelte
+
 ---
 
 | Part 3 - Cart System                                                                   | Complete? |

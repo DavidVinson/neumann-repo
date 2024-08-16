@@ -1,5 +1,7 @@
 Hey Samuel. General comments about the project. (1)
 
+- rework complete
+
 ---
 
 | Part 2 - CSS                                                                         | Complete? |

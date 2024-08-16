@@ -1,5 +1,7 @@
 Hey Samuel. General comments about the project. (1)
 
+- rework complete
+
 ---
 
 | Part 1 - Function Practice                      | Complete? |
