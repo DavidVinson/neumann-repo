@@ -1,4 +1,4 @@
-Hey Jacob, (1)
+Hey **name**,
 
 ---
 
@@ -35,4 +35,4 @@ Notes on the above Functional Requirements.
 
 ### Notes:
 
-Will review when complete.
+General notes on quality, comments, commits, suggestions, highlights, etc.
